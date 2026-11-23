@@ -122,7 +122,7 @@ function createApp() {
     <div class="badge"><span class="dot"></span>Contenedor Docker activo</div>
     <h1>¡Hola Mundo!</h1>
     <p class="subtitle">
-      Aplicación web creada con Node.js y Express para la <strong>Práctica de Entrega Continua</strong> (ciclo DevOps con Docker y Docker Hub).
+      Aplicación web creada con Node.js y Express para la <strong>Práctica de Entrega Continua</strong> (ciclo DevOps con Docker, GitHub Actions y Render).
     </p>
     <section class="meta">
       <div class="meta-item">
