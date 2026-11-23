@@ -1,0 +1,22 @@
+{
+  "name": "pract-entrega-continua",
+  "version": "1.0.0",
+  "description": "Aplicación web Hola Mundo con Node.js, Express y Docker para la Práctica de Entrega Continua",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "devops",
+    "docker",
+    "entrega-continua",
+    "express",
+    "nodejs"
+  ],
+  "author": "Adrian Hidalgo",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
